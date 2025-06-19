@@ -13,15 +13,15 @@ A modular Python toolkit for real-time body part tracking and analysis, supporti
 - **Visualization Tools**: Built-in landmark drawing and analysis utilities
 
 ## Modules Overview
-```text
+
 | Module | Description | Visualization |
 |--------|-------------|---------------|
 | `face_detection.py` | Face detection and basic landmark tracking | ![Face](hints/face_lms.png) |
-| `face_mesh_detection.py` | Detailed 468-point face mesh detection | |
+| `face_mesh_detection.py` | Detailed 468-point face mesh detection |  |
 | `hand_tracking.py` | 21-point hand landmark detection per hand | ![Hand](hints/hand_lms.png) |
-| `pose_tracking.py` | Full-body 33-point pose estimation | |
-| `volume_hand_control.py` | Example application: hand gesture volume control | |
-```
+| `pose_tracking.py` | Full-body 33-point pose estimation |  |
+| `volume_hand_control.py` | Example application: hand gesture volume control |  |
+
 ## Installation
 
 1. Clone the repository:
